@@ -61,11 +61,6 @@ This is a focused open-source MVP rather than a hosted replacement for a product
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, code style, privacy expectations, and pull-request guidance.
 
-## License
-
-Released under the [MIT License](LICENSE).
-
-
 ## Live demo
 
 Open **[Accessibility Contrast Checker in the browser](https://devilking7x.github.io/accessibility-contrast-checker/)**. The default deployment uses GitHub Pages and does not require a custom domain.
