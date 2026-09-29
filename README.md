@@ -1,6 +1,6 @@
 # Accessibility Contrast Checker
 
-[![Live demo](https://devilking7x.github.io/accessibility-contrast-checker/badge.svg)](https://devilking7x.github.io/accessibility-contrast-checker/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Live demo](https://img.shields.io/website?url=https%3A%2F%2Fdevilking7x.github.io%2Faccessibility-contrast-checker%2F)](https://devilking7x.github.io/accessibility-contrast-checker/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > Make readable color choices before they ship.
 
